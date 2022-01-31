@@ -37,8 +37,8 @@ Users will be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github](https://github.com/mariamALLI/alternative-huddle-landingpage.git)
+- Live Site URL: [Netlify](https://huddle-alternative-landingpage.netlify.app/)
 
 ## My process
 - I coded this design challenge with the aid of Bootstrap as my CSS framework.
